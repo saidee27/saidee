@@ -1,4 +1,4 @@
-baseurl = "/"  # End your URL with a `/` trailing slash.
+baseurl = "https://saidee.netlify.com/"  # End your URL with a `/` trailing slash.
 title = "Sai Hurrish Dharmarajan"
 copyright = "&copy; 2016 Sai Hurrish Dharmarajan"
 theme = "hugo-academic"
@@ -86,7 +86,7 @@ defaultContentLanguageInSubdir = false
 
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
-  custom_css = []
+  custom_css = ["blue.css"]
   custom_js  = []
 
   # Publication types.
