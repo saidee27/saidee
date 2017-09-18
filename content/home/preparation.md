@@ -21,7 +21,7 @@ detailed_list = false
 +++
 
 1. Dharmarajan, S., Schaubel, D. E. “Sample Size Estimation in Case-Crossover Studies.” Submitted to *Statistics in Medicine*.
-2. Dharmarajan, S., Schaubel, D. E. “Improving the Eﬃciency of the Proportional Rates Model.” In preparation. [Talk](({{< ref "talk/enar-2017.md" >}}))
-3. Dharmarajan, S., Schaubel, D. E. “A Semiparametric Mixture Component Model with Random Eﬀects for the Analysis of Clustered Competing Risks Data.” In preparation. [Talk](({{< ref "talk/jsm-2017.md" >}}))
+2. Dharmarajan, S., Schaubel, D. E. “Improving the Eﬃciency of the Proportional Rates Model.” In preparation. [Talk]({{< ref "talk/enar-2017.md" >}})
+3. Dharmarajan, S., Schaubel, D. E. “A Semiparametric Mixture Component Model with Random Eﬀects for the Analysis of Clustered Competing Risks Data.” In preparation. [Talk]({{< ref "talk/jsm-2017.md" >}})
 3. Dharmarajan, S., Schaubel, D. E. “Instrumental Variable Methods for Competing Risks Data.” In preparation.
-4. Dharmarajan, S., Morgenstern, H., Bragg-Gresham, J., Gillespie, B., Powe, N., Tuot, D., Banerjee, T., Rios-Burrows, N., Rolka, D., Saydah, S., and Saran, R. “Bayesian Small Area Estimates of Prevalence and Self-reported Prevalence of Kidney Disease by United States County.” In preparation. [Talk](({{< ref "talk/apha-2015.md" >}}))
+4. Dharmarajan, S., Morgenstern, H., Bragg-Gresham, J., Gillespie, B., Powe, N., Tuot, D., Banerjee, T., Rios-Burrows, N., Rolka, D., Saydah, S., and Saran, R. “Bayesian Small Area Estimates of Prevalence and Self-reported Prevalence of Kidney Disease by United States County.” In preparation. [Talk]({{< ref "talk/apha-2015.md" >}})

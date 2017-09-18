@@ -1,6 +1,6 @@
 baseurl = "/"  # End your URL with a `/` trailing slash.
-title = "Academic"
-copyright = "&copy; 2016 Your Name"
+title = "Sai Hurrish Dharmarajan"
+copyright = "&copy; 2016 Sai Hurrish Dharmarajan"
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
@@ -126,8 +126,13 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "mailto:shdharma@umich.edu"
 
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/sai-hurrish-dharmarajan-0bab5714/"
+  
   [[params.social]]
     icon = "twitter"
     icon_pack = "fa"

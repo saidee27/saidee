@@ -45,8 +45,10 @@ weight = 1
 
 # Biography
 
-I am a PhD student in Biostatistics at the University of Michigan. My dissertation research is in the area of competing risks and survival analysis. During my Masters', I worked as a Research Assistant at the Univeristy of Michigan Kidney Epidemiology and Cost Center. Prior to coming to Michigan, I was a Quantitative Research Analyst at Acumen, LLC and before that I was a graduate student and Research Assistant at the University of Mississippi Department of Pharmacy Administration.
+I am a (final year) PhD student in [Biostatistics](https://sph.umich.edu/biostat/) at the University of Michigan. I am advised by Prof. Douglas E. Schaubel. My dissertation research has focused on developing statistical methods for clustered data and causal inference in the competing risks setting. As a research assistant, I've also been involved in methods research pertaining to analysis of multivariate suvival / recurrent event data arising in the end stage renal disease setting. 
 
-Here's a link to my [CV](/pdf/SaiDharmarajan_CVI.pdf).
+During my Masters', I worked as a research assistant at the [Univeristy of Michigan Kidney Epidemiology and Cost Center](https://kecc.sph.umich.edu/), contributing to the [Chronic Kidney Disease Surveillance System](https://nccd.cdc.gov/ckd/) and the [United States Renal Data System](https://www.usrds.org/) projects. Prior to coming to Michigan, I was a Quantitative Research Analyst at [Acumen, LLC](http://www.acumenllc.com/) and before that I was a graduate student and research assistant at [Department of Pharmacy Administration, The University of Mississippi](https://pharmacy.olemiss.edu/phad/).
 
-My average day consists of drinking 5 cups of tea and getting yelled at plenty. Here's a picture of me making passers by at Michigan Diag stare in disbelief, scratch their heads and crack a smile.
+Here's my [CV](/pdf/SaiDharmarajan_CVI.pdf).
+
+My average day consists of drinking 5 cups of tea and getting yelled at plenty. Here's a [picture of me making passers by at Michigan Diag stare in disbelief, scratch their heads and crack a smile](https://www.instagram.com/p/BVQpcC0hq0D/?taken-by=fullmetaljokers). I ocassionally blog about Cricket and Basketball.
