@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "Sample Size Estimation for Case-Crossover Studies"
 
 # Project summary to display on homepage.
-summary = "Summer (2016) research project at the [United Staes Food and Drug Administration (FDA)](https://www.fda.gov/aboutfda/centersoffices/officeofmedicalproductsandtobacco/cder/ucm166250.htm)"
+summary = "Summer (2016) research project at the [United Staes Food and Drug Administration (FDA)](https://www.fda.gov/aboutfda/centersoffices/officeofmedicalproductsandtobacco/cder/ucm166250.htm); Detailed ﬁndings in an internal report and presentation to Division Heads and the Director at the Oﬃce of Biostatistcs in Center for Drug Evaluation and Research"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 #image_preview = "bubbles.jpg"

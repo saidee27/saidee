@@ -6,7 +6,7 @@ date = "2016-04-27"
 title = "Application of Classification and Clustering Methods on NBA Shot Logs data"
 
 # Project summary to display on homepage.
-summary = "Used latent dirichlet allocation to examine and identify beneficial offensive philosophies; Developed an algorithm for player recommendation using various clustering methods"
+summary = "Used latent dirichlet allocation to examine and identify beneficial offensive philosophies; Developed an algorithm for player recommendation using various clustering methods (including non-parametric methods like dirichlet process gaussian mixture models)"
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 #image_preview = "boards.jpg"
