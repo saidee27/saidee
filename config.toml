@@ -181,7 +181,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Coursework"
-  url = "#coursework"
+  url = "#Coursework"
   weight = 6
   
 [[menu.main]]
