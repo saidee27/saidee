@@ -13,7 +13,7 @@ summary = "Summer (2016) research project at the [United Staes Food and Drug Adm
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-#tags = ["FDA"]
+tags = ["FDA"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
