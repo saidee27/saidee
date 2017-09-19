@@ -5,12 +5,12 @@
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Recent Posts"
+title = "Blog Archive"
 subtitle = ""
 widget = "posts"
 
 # Order that this section will appear in.
-weight = 60
+weight = 80
 
 # Show posts that contain the following tags. Default to any tags.
 tags = []
